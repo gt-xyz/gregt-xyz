@@ -1,0 +1,2 @@
+# Cloudflare Pages rewrite: the course is a git submodule whose deployable page lives in its site/ folder.
+/python-under-the-hood/* /python-under-the-hood/site/:splat 200
